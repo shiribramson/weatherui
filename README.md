@@ -1,2 +1,2 @@
-# weatherui
+# weather ui
 web appliaction
