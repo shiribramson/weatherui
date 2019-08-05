@@ -254,7 +254,6 @@ body .mainWrapper ::-webkit-input-placeholder {
   }
   body .mainWrapper .subWrapper .searchWrapper input#search {
     font-size: 3.1vw;
-    height: 72px;
   }
   body .mainWrapper .subWrapper .arrowDesktop {
     display: none;
@@ -341,7 +340,7 @@ body .mainWrapper ::-webkit-input-placeholder {
 
 @media only screen and (max-width: 450px) {
   body .mainWrapper .subWrapper .searchWrapper input#search {
-    height: 55px;
+     height: 60px;
     font-size: 4vw;
   }
 }
