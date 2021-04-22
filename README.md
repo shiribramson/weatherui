@@ -1,2 +1,2 @@
 # weather ui
-web appliaction
+Fully responsive weather web appliaction 
